@@ -31,24 +31,24 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
-<link rel='stylesheet' id='owl-carousel-css'  href='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/css/owl.carousel.css?ver=2.2.1' type='text/css' media='all' />
-<link rel='stylesheet' id='owl-carousel-transitions-css'  href='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/css/owl.transitions.css?ver=1.3.2' type='text/css' media='all' />
-<link rel='stylesheet' id='colorbox-css'  href='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/css/colorbox.css?ver=1.5.14' type='text/css' media='all' />
-<link rel='stylesheet' id='animate-css'  href='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/css/animate.css?ver=3.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='tx-style-css'  href='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/css/tx-style.css?ver=1.01' type='text/css' media='all' />
-<link rel='stylesheet' id='woocommerce-general-css'  href='http://technetonlines.co.uk/wp-content/themes/i-craft/css/nx-woo.css?ver=2.09' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='css/owl.carousel.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-transitions-css'  href='css/owl.transitions.css?ver=1.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-css'  href='css/colorbox.css?ver=1.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='css/animate.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tx-style-css'  href='css/tx-style.css?ver=1.01' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='css/nx-woo.css?ver=2.09' type='text/css' media='all' />
 <link rel='stylesheet' id='icraft-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CRoboto%3A300%2C400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='genericons-css'  href='http://technetonlines.co.uk/wp-content/themes/i-craft/fonts/genericons.css?ver=2.09' type='text/css' media='all' />
-<link rel='stylesheet' id='side-menu-css'  href='http://technetonlines.co.uk/wp-content/themes/i-craft/css/jquery.sidr.dark.css?ver=2014-01-12' type='text/css' media='all' />
-<link rel='stylesheet' id='owl-carousel-theme-css'  href='http://technetonlines.co.uk/wp-content/themes/i-craft/css/owl.theme.css?ver=2014-01-12' type='text/css' media='all' />
-<link rel='stylesheet' id='icraft-style-css'  href='http://technetonlines.co.uk/wp-content/themes/i-craft/style.css?ver=2013-07-18' type='text/css' media='all' />
-<link rel='stylesheet' id='itrans-blog-layout-css'  href='http://technetonlines.co.uk/wp-content/themes/i-craft/css/twocol-blog.css?ver=2014-03-11' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='css/genericons.css?ver=2.09' type='text/css' media='all' />
+<link rel='stylesheet' id='side-menu-css'  href='css/jquery.sidr.dark.css?ver=2014-01-12' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-theme-css'  href='css/owl.theme.css?ver=2014-01-12' type='text/css' media='all' />
+<link rel='stylesheet' id='icraft-style-css'  href='css/style.css?ver=2013-07-18' type='text/css' media='all' />
+<link rel='stylesheet' id='itrans-blog-layout-css'  href='css/twocol-blog.css?ver=2014-03-11' type='text/css' media='all' />
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='icraft-ie-css'  href='http://technetonlines.co.uk/wp-content/themes/i-craft/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
 <![endif]-->
-<link rel='stylesheet' id='itrans-extra-stylesheet-css'  href='http://technetonlines.co.uk/wp-content/themes/i-craft/css/extra-style.css?ver=2014-03-11' type='text/css' media='all' />
-<link rel='stylesheet' id='kirki-styles-css'  href='http://technetonlines.co.uk/wp-content/themes/i-craft/inc/kirki/assets/css/kirki-styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='itrans-extra-stylesheet-css'  href='css/extra-style.css?ver=2014-03-11' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki-styles-css'  href='css/kirki-styles.css' type='text/css' media='all' />
 <script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
 <script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <link rel='https://api.w.org/' href='http://technetonlines.co.uk/wp-json/' />
