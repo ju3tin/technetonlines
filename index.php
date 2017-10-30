@@ -78,26 +78,26 @@ body.custom-background { background-image: url("http://technetonlines.co.uk/wp-c
 		<!-- #colophon -->
 	</div><!-- #page -->
 
-	<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/js/owl.carousel.min.js?ver=1.3.2'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/js/jquery.colorbox-min.js?ver=1.5.14'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/js/jquery.inview.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/js/tx-script.js?ver=2013-07-18'></script>
+	<script type='text/javascript' src='javascript/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='javascript/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='javascript/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='javascript/owl.carousel.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='javascript/jquery.colorbox-min.js?ver=1.5.14'></script>
+<script type='text/javascript' src='javascript/jquery.inview.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='javascript/tx-script.js?ver=2013-07-18'></script>
 
 
 
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.2.0'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/themes/i-craft/js/modernizr.custom.js?ver=2014-01-13'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/themes/i-craft/js/waypoints.min.js?ver=2014-01-13'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/themes/i-craft/js/jquery.sidr.min.js?ver=2014-01-13'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/themes/i-craft/js/functions.js?ver=2013-07-18'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='javascript/cart-fragments.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='javascript/modernizr.custom.js?ver=2014-01-13'></script>
+<script type='text/javascript' src='javascript/waypoints.min.js?ver=2014-01-13'></script>
+<script type='text/javascript' src='javascript/jquery.sidr.min.js?ver=2014-01-13'></script>
+<script type='text/javascript' src='javascript/functions.js?ver=2013-07-18'></script>
+<script type='text/javascript' src='javascript/wp-embed.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='javascript/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='javascript/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='javascript/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='javascript/slider.min.js?ver=1.11.4'></script>
 
 
 
