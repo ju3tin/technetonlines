@@ -1,37 +1,19 @@
-<!doctype html>
-
-<html lang="en">
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 <head>
-  <meta charset="utf-8">
-
-  <title>The HTML5 Herald</title>
-  <meta charset="UTF-8">
+	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width">
 
 	    
     
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="http://technetonlines.co.uk/xmlrpc.php">
-	<title> | Call - 0800 368 7760 to Crack Latest Deals - TechNetOnlines</title>
-    
-    
-   
-    
-    
-    <script type='text/javascript' src='slider.js'></script>
-    
-     <script type='text/javascript' src='jquery.js'></script>
+	<title>Justin's test file</title>
 
 <!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
 <!-- /SEO Ultimate -->
 
-<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
-<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Call - 0800 368 7760 to Crack Latest Deals - TechNetOnlines &raquo; Feed" href="http://technetonlines.co.uk/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Call - 0800 368 7760 to Crack Latest Deals - TechNetOnlines &raquo; Comments Feed" href="http://technetonlines.co.uk/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Call - 0800 368 7760 to Crack Latest Deals - TechNetOnlines &raquo; Products Feed" href="http://technetonlines.co.uk/shop/home/feed/" />
-		<script type="text/javascript">
+	<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/technetonlines.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
 			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
@@ -56,8 +38,6 @@ img.emoji {
 <link rel='stylesheet' id='animate-css'  href='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/css/animate.css?ver=3.5.1' type='text/css' media='all' />
 <link rel='stylesheet' id='tx-style-css'  href='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/css/tx-style.css?ver=1.01' type='text/css' media='all' />
 <link rel='stylesheet' id='woocommerce-general-css'  href='http://technetonlines.co.uk/wp-content/themes/i-craft/css/nx-woo.css?ver=2.09' type='text/css' media='all' />
-<link rel='stylesheet' id='woocommerce-layout-css'  href='http://technetonlines.co.uk/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.2.0' type='text/css' media='all' />
-<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://technetonlines.co.uk/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.2.0' type='text/css' media='only screen and (max-width: 768px)' />
 <link rel='stylesheet' id='icraft-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CRoboto%3A300%2C400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
 <link rel='stylesheet' id='genericons-css'  href='http://technetonlines.co.uk/wp-content/themes/i-craft/fonts/genericons.css?ver=2.09' type='text/css' media='all' />
 <link rel='stylesheet' id='side-menu-css'  href='http://technetonlines.co.uk/wp-content/themes/i-craft/css/jquery.sidr.dark.css?ver=2014-01-12' type='text/css' media='all' />
@@ -83,19 +63,44 @@ img.emoji {
 body.custom-background { background-image: url("http://technetonlines.co.uk/wp-content/themes/i-craft/images/bg7.jpg"); background-position: center top; background-size: cover; background-repeat: repeat; background-attachment: fixed; }
 </style>
 
-<script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatwidget.aspx?hccid=52494338&WidgetStartPos=middleright&WidgetPosition=middleright"></script>
 
 </head>
-
-<body>
-    
-    
-    
-        <div class="ibanner">	<div id="da-slider" class="da-slider owl-carousel owl-theme1" role="banner" data-slider-speed="6000" data-slider-parallax="1" style="opacity: 1; display: block;"><div class="owl-wrapper-outer autoHeight" style="height: 151px; max-height: 440px;"><div class="owl-wrapper" style="width: 3296px; left: 0px; display: block; transform: translate3d(-412px, 0px, 0px); transition: all 600ms ease;"><div class="owl-item" style="width: 412px;"><div class="nx-slider"><div class="da-img"><img width="1200" height="440" src="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-1-3.jpg" class="attachment-icraft-slider-thumb size-icraft-slider-thumb" alt="" srcset="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-1-3.jpg 1200w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-1-3-300x110.jpg 300w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-1-3-768x282.jpg 768w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-1-3-1024x375.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" style="margin-top: 0px;"></div><div class="slider-content-wrap"><div class="nx-slider-container"><h2>Designed to Work Safe, Secure &amp; Fast</h2><p>Make your online and offline work safe, secure and fast with defencebyte advance security software.</p><a href="http://www.technetonlines.co.uk/shop/" class="da-link">Shop Now</a></div></div></div></div><div class="owl-item active" style="width: 412px;"><div class="nx-slider"><div class="da-img"><img width="1200" height="440" src="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-2-2.jpg" class="attachment-icraft-slider-thumb size-icraft-slider-thumb" alt="" srcset="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-2-2.jpg 1200w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-2-2-300x110.jpg 300w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-2-2-768x282.jpg 768w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-2-2-1024x375.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" style="margin-top: 0px;"></div><div class="slider-content-wrap"><div class="nx-slider-container"><h2>Attractive Offers on Accounting &amp; Security Softwares</h2><p>Grab attractive offers on all accounting and security software's at TechNetOnlines digital store.</p><a href="http://www.technetonlines.co.uk/shop/" class="da-link">Shop Now</a></div></div></div></div><div class="owl-item" style="width: 412px;"><div class="nx-slider"><div class="da-img"><img width="1200" height="440" src="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-3-3.jpg" class="attachment-icraft-slider-thumb size-icraft-slider-thumb" alt="" srcset="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-3-3.jpg 1200w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-3-3-300x110.jpg 300w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-3-3-768x282.jpg 768w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-3-3-1024x375.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" style="margin-top: 0px;"></div><div class="slider-content-wrap"><div class="nx-slider-container"><h2>A Wide Variety of Electronic Products</h2><p>Grab latest deals &amp; discount on all electronics items (laptop, desktop, mobile &amp; application software) at TechNetOnlines store.</p><a href="http://www.technetonlines.co.uk/shop/" class="da-link">Shop Now</a></div></div></div></div><div class="owl-item" style="width: 412px;"><div class="nx-slider"><div class="da-img"><img width="1200" height="440" src="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-4-2.jpg" class="attachment-icraft-slider-thumb size-icraft-slider-thumb" alt="" srcset="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-4-2.jpg 1200w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-4-2-300x110.jpg 300w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-4-2-768x282.jpg 768w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-4-2-1024x375.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" style="margin-top: 0px;"></div><div class="slider-content-wrap"><div class="nx-slider-container"><h2>Any Hardware or Software Issues?</h2><p>No need to worry! we provide complete online help for all software or hardware related issues for our delivered products.</p><a href="http://www.technetonlines.co.uk/contact-us/" class="da-link">Contact US</a></div></div></div></div></div></div>	<div class="owl-controls"><div class="owl-pagination"><div class="owl-page"><span class=""></span></div><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"><span class="genericon genericon-leftarrow"></span></div><div class="owl-next"><span class="genericon genericon-rightarrow"></span></div></div></div></div></div>
-    
-    
+<body class="home archive post-type-archive post-type-archive-product custom-background woocommerce woocommerce-page nx-boxed nx-leftsidebar twocol-blog single-author sidebar">
+	<div id="page" class="hfeed site">
+    	
+            	
+                
      
-    
+        
+        <!-- #Banner -->
+                                <div class="ibanner">	<div id="da-slider" class="da-slider" role="banner" data-slider-speed="6000" data-slider-parallax="1"><div class="nx-slider"><div class="da-img"><img width="1200" height="440" src="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-1-3.jpg" class="attachment-icraft-slider-thumb size-icraft-slider-thumb" alt="" srcset="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-1-3.jpg 1200w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-1-3-300x110.jpg 300w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-1-3-768x282.jpg 768w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-1-3-1024x375.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></div><div class="slider-content-wrap"><div class="nx-slider-container"><h2>Designed to Work Safe, Secure &amp; Fast</h2><p>Make your online and offline work safe, secure and fast with defencebyte advance security software.</p><a href="http://www.technetonlines.co.uk/shop/" class="da-link">Shop Now</a></div></div></div><div class="nx-slider"><div class="da-img"><img width="1200" height="440" src="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-2-2.jpg" class="attachment-icraft-slider-thumb size-icraft-slider-thumb" alt="" srcset="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-2-2.jpg 1200w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-2-2-300x110.jpg 300w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-2-2-768x282.jpg 768w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-2-2-1024x375.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></div><div class="slider-content-wrap"><div class="nx-slider-container"><h2>Attractive Offers on Accounting &amp; Security Softwares</h2><p>Grab attractive offers on all accounting and security software&#039;s at TechNetOnlines digital store.</p><a href="http://www.technetonlines.co.uk/shop/" class="da-link">Shop Now</a></div></div></div><div class="nx-slider"><div class="da-img"><img width="1200" height="440" src="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-3-3.jpg" class="attachment-icraft-slider-thumb size-icraft-slider-thumb" alt="" srcset="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-3-3.jpg 1200w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-3-3-300x110.jpg 300w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-3-3-768x282.jpg 768w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-3-3-1024x375.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></div><div class="slider-content-wrap"><div class="nx-slider-container"><h2>A Wide Variety of Electronic Products</h2><p>Grab latest deals &amp; discount on all electronics items (laptop, desktop, mobile &amp; application software) at TechNetOnlines store.</p><a href="http://www.technetonlines.co.uk/shop/" class="da-link">Shop Now</a></div></div></div><div class="nx-slider"><div class="da-img"><img width="1200" height="440" src="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-4-2.jpg" class="attachment-icraft-slider-thumb size-icraft-slider-thumb" alt="" srcset="http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-4-2.jpg 1200w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-4-2-300x110.jpg 300w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-4-2-768x282.jpg 768w, http://technetonlines.co.uk/wp-content/uploads/2017/03/slider-4-2-1024x375.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></div><div class="slider-content-wrap"><div class="nx-slider-container"><h2>Any Hardware or Software Issues?</h2><p>No need to worry! we provide complete online help for all software or hardware related issues for our delivered products.</p><a href="http://www.technetonlines.co.uk/contact-us/" class="da-link">Contact US</a></div></div></div>	</div></div>        	            
+        	<!-- #main -->
+		<!-- #colophon -->
+	</div><!-- #page -->
+
+	<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/js/owl.carousel.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/js/jquery.colorbox-min.js?ver=1.5.14'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/js/jquery.inview.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/plugins/templatesnext-toolkit/js/tx-script.js?ver=2013-07-18'></script>
+
+
+
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/themes/i-craft/js/modernizr.custom.js?ver=2014-01-13'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/themes/i-craft/js/waypoints.min.js?ver=2014-01-13'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/themes/i-craft/js/jquery.sidr.min.js?ver=2014-01-13'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-content/themes/i-craft/js/functions.js?ver=2013-07-18'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://technetonlines.co.uk/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+
+
+
 
 </body>
 </html>
