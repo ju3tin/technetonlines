@@ -50,7 +50,7 @@ img.emoji {
 <link rel='stylesheet' id='itrans-extra-stylesheet-css'  href='css/extra-style.css?ver=2014-03-11' type='text/css' media='all' />
 <link rel='stylesheet' id='kirki-styles-css'  href='css/kirki-styles.css' type='text/css' media='all' />
 <script type='text/javascript' src='js/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='js/jquery-3.2.1.min'></script>    
+<script type='text/javascript' src='js/jquery-3.2.1.min.js'></script>    
 <script type='text/javascript' src='javascript/jquery-migrate.min.js?ver=1.4.1'></script>
 <link rel='https://api.w.org/' href='http://technetonlines.co.uk/wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://technetonlines.co.uk/xmlrpc.php?rsd" />
